@@ -6,7 +6,7 @@
 https://greasyfork.org/zh-TW/scripts/382770-plurk-r18-%E9%81%AE%E8%94%BD
 
 * 實際效果  
-![image](https://github.com/SentenceDot/plurk-R18-/blob/master/preview.gif)
+![image](https://github.com/SentenceDot/plurk-R18-mask/blob/master/preview.gif)
 
 ---
 ## 未來工作?
